@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Contacts</string>
+    <string name="contact_name">Nombre: %1$s</string>
+    <string name="contact_tel">Telefono: %1$i</string>
+    <string name="contact_url_photo">Url Foto: %1$s</string>
+    <string name="contact_address">Dirección: %1$s</string>
+    <string name="hint_name">Nombre</string>
+    <string name="hint_url">Url de Imagen</string>
+    <string name="hint_number_phone">Numero Telefonico</string>
+    <string name="hint_addres">Dirección</string>
+    <string name="btn_add">Agregar</string>
+</resources>

@@ -1,0 +1,7 @@
+<resources>
+    <dimen name="common_padding_min">8dp</dimen>
+    <dimen name="common_padding_default">16dp</dimen>
+    <dimen name="image_size">148dp</dimen>
+    <dimen name="padding_add">30dp</dimen>
+
+</resources>
